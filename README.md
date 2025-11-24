@@ -3,7 +3,7 @@
 CricketIQ is a data-driven IPL match prediction system that analyzes past match statistics and learns patterns to forecast which team is more likely to win a match.
 The system combines **Machine Learning models**, a **Flask backend**, and an **interactive HTML/CSS frontend** to provide real-time match predictions.
 
-# **Key Features  **
+# **Key Features**
 
 ✔ Predict IPL match outcomes using historical data  
 ✔ Multi-model training and comparison  

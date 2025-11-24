@@ -3,15 +3,15 @@
 CricketIQ is a data-driven IPL match prediction system that analyzes past match statistics and learns patterns to forecast which team is more likely to win a match.
 The system combines **Machine Learning models**, a **Flask backend**, and an **interactive HTML/CSS frontend** to provide real-time match predictions.
 
-# **Key Features**
+# **Key Features  **
 
-✔ Predict IPL match outcomes using historical data
-✔ Multi-model training and comparison
-✔ LightGBM-based final deployed model
-✔ Full-stack deployment with Flask
-✔ Interactive frontend UI (HTML + CSS)
-✔ Visual analysis: heatmaps, ROC curves, confusion matrices
-✔ Clean code, modular structure, and ready-to-deploy setup
+✔ Predict IPL match outcomes using historical data  
+✔ Multi-model training and comparison  
+✔ LightGBM-based final deployed model  
+✔ Full-stack deployment with Flask  
+✔ Interactive frontend UI (HTML + CSS)  
+✔ Visual analysis: heatmaps, ROC curves, confusion matrices  
+✔ Clean code, modular structure, and ready-to-deploy setup  
 
 # **Machine Learning Models Used**
 
@@ -55,17 +55,17 @@ Frontend (HTML/CSS) → Flask Backend → ML Model → Prediction Output
 
 # **Tech Stack**
 
-# Frontend
+### Frontend
 
 * HTML
 * CSS
 
-# Backend
+### Backend
 
 * Python
 * Flask
 
-# Machine Learning & Data
+### Machine Learning & Data
 
 * Pandas, NumPy
 * Scikit-learn
